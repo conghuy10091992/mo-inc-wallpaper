@@ -1,6 +1,6 @@
 {
   "code": 37,
-  "adsFlag": true,
+  "adsFlag": false,
   "adsUnit": {
      "useAds": false,
      "isBlock": false,
