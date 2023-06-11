@@ -1949,6 +1949,12 @@
             },
             {
               "name": "Raz",
+              "thumbnail": "https://sat02pap005files.storage.live.com/y4mP--Ay42ocMrtBnuk4cKUiVI0esZu19eIvm_cQwROp1UANSvGrueIZErJ0aJFUGEAx0zx6PbnfvOovSq8t2J23dVoPP4pbA64plGP83KehPhd97hYdDLcdaQNyfWN70ovWDfiFpmPGc7kHjUEuL4eaSFnMVn2cyOCpANeEBMtIcsf9LztzQVZT-Ja2_BM_Ie__1TOnJg4cbkOcqv-ga8Yfg?encodeFailures=1",
+              "isLock": true,
+              "extend":"&width=1386&height=852"
+            },
+            {
+              "name": "Raz",
               "thumbnail": "https://sn3302files.storage.live.com/y4mRW0cU7CXewcVOENh8vrZ1fZSJhaq1ZWeT0hFJRVzrnBRIC04gj2uGjUWPmjTw6_EhHOddhcGM52DO66-c4sh1e_odnr6gYzThjwPCw6W4m4Co1llAQlBBojhbV0lP1R1DfJQ19RUKgaqaH-v6Mx64BZ4wfgsdh6ATXcuplkSkpLhYRUL8oI2PzbER614j3NStEid_NeM1r-tNbhd2UYbdg/8B740264AEAB791D552213F00EEFBAA9.PNG?psid=1",
               "isLock": true
             }
@@ -4451,9 +4457,9 @@
             },
             {
               "name": "Omen",
-              "thumbnail": "https://sat02pap005files.storage.live.com/y4mp_XSFsmrkg7JzjU2H8Idlm6rGEP5SauzSbP-ssJ9Al5HbxVlhX800BjHh7HJLkUPkrGjVjyZ1eV5_OjVVPA4ANlsiveSZBzQol1PeY8YtzWJt-kR77cpeiloOUs8_Vh0pHIHmk7FwDQH3knlKD-KH6Vi0z0Y6RxaPYW71gqdRq2X45jJ1vbApr9jBljMSq1he4TqKkUhcHnNB4lCsRctaQ",
+              "thumbnail": "https://sat02pap005files.storage.live.com/y4mp_XSFsmrkg7JzjU2H8Idlm6rGEP5SauzSbP-ssJ9Al5HbxVlhX800BjHh7HJLkUPkrGjVjyZ1eV5_OjVVPA4ANlsiveSZBzQol1PeY8YtzWJt-kR77cpeiloOUs8_Vh0pHIHmk7FwDQH3knlKD-KH6Vi0z0Y6RxaPYW71gqdRq2X45jJ1vbApr9jBljMSq1he4TqKkUhcHnNB4lCsRctaQ?encodeFailures=1",
               "isLock": true,
-              "extend":"&width=1600&height=1000"
+              "extend":"&width=1386&height=852"
             }
           ]
         },
